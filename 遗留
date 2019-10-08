@@ -17,3 +17,15 @@ git remote -v
 
 git push origin master
 就是默认向 GitHub 上的 test 目录提交了代码，而这个代码是在 master 分支。当然你可以提交到指定的分支，这个之后的文章再详细讲解。
+
+
+
+
+
+
+1. 相对链接
+Markdown文件里链接到内部内容时推荐使用相对链接。
+[Link to a header](#awesome-section)
+[Link to a file](docs/readme)
+绝对链接会在 URL 改变时（例如重命名仓库、用户名改变，建立分支项目）被更新。使用相对链接能够保证你的文档不受此影响。
+
