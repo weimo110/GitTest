@@ -3,16 +3,16 @@
 > 但见长江送流水
 
 ## 字体
-* 粗体
-** 斜体
+*斜体*
+**粗体
 
 ## 代码引用
-'Hello World'
-'''
+`Hello World`
+```
 a
 b
 c
-'''
+```
 
 ## 表格
 | Tables        | Are           | Cool  |
